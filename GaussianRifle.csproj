@@ -5,6 +5,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <OutputType>Library</OutputType>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Adrian Sieradzki</Authors>
+    <Company>Ex Machina Soft</Company>
+    <Description>A library for automating Gaussian16, parsing output and rendering molecules in 3D.</Description>
+    <PackageLicenseExpression>GPL 3</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
