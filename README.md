@@ -43,7 +43,7 @@ GaussianRifle.GaussianRifle gaussian = new(settings);
 //Upload from string or textfile
 gaussian.UploadLinesRemote(text.Split(Environment.NewLine), "/home/user/opt/gaussian/input/test.inp");
 //Run calculation, can specify custom commands using brackets, otherwise it will be
-/*
+
         void addCommands()
         {
             myCommandsSet.Add($"export GAUSS_SCRDIR={_gaussianSCRDIR}");
@@ -52,7 +52,7 @@ gaussian.UploadLinesRemote(text.Split(Environment.NewLine), "/home/user/opt/gaus
             myCommandsSet.Add($"$GAUSS_EXEDIR/g16 {_remoteInputFilePath} {_remoteOutputFilePath}");
 
         }
-*/
+
 gaussian.RunCalculation();
 
 
