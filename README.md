@@ -4,11 +4,12 @@ GaussianRifle is a library for automating Gaussian16 and reading its outputs. In
 
 ## Installation
 
-Use the package manager 
-
+Use NuGet package:
+https://www.nuget.org/packages/GaussianRifle/1.0.0
 ```bash
-Install-Package GaussianRifle -Version 1.0.0
+dotnet add package GaussianRifle --version 1.0.0
 ```
+...or copy the class library into your project.
 
 ## Usage
 On linux machine ensure Gaussian16 is installed. Gaussian16 is a commercial software and can be purchased here:
