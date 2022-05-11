@@ -14,6 +14,8 @@ Install-Package GaussianRifle -Version 1.0.0
 On linux machine ensure Gaussian16 is installed. Gaussian16 is a commercial software and can be purchased here:
 https://gaussian.com/gaussian16/
 
+Your linux machine should accept SSH connections:
+
 ```bash
 sudo apt-get update
 sudo apt-get install openssh-server
