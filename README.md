@@ -100,7 +100,7 @@ Can be called from Blazor:
 ```
 You can find an example on here:
 
-www.exmachinasoft.com
+https://www.exmachinasoft.com/Gaussianrifle
 
 
 ## Contributing
