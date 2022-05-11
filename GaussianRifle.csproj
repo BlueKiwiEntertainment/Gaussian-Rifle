@@ -9,14 +9,14 @@
     <Authors>Adrian Sieradzki</Authors>
     <Company>Ex Machina Soft</Company>
     <Description>A library for automating Gaussian16, parsing output and rendering molecules in 3D.</Description>
-    <PackageLicenseExpression>GPL 3</PackageLicenseExpression>
-    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <Copyright>https://github.com/BlueKiwiEntertainment/Gaussian-Rifle/blob/master/LICENSE</Copyright>
     <PackageProjectUrl>www.exmachinasoft.com</PackageProjectUrl>
     <PackageIcon>image_2022-05-11_024624202.png</PackageIcon>
     <RepositoryUrl>https://github.com/BlueKiwiEntertainment/Gaussian-Rifle</RepositoryUrl>
     <PackageTags>Gaussian16; chemistry; molecule; 3d; output; quantum;</PackageTags>
     <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <PackageLicenseExpression>GPL-3.0</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
