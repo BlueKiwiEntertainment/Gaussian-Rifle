@@ -15,7 +15,7 @@
     <RepositoryUrl>https://github.com/BlueKiwiEntertainment/Gaussian-Rifle</RepositoryUrl>
     <PackageTags>Gaussian16; chemistry; molecule; 3d; output; quantum;</PackageTags>
     <PackageReleaseNotes>Initial release</PackageReleaseNotes>
-    <PackageLicenseExpression>GPL-3.0</PackageLicenseExpression>
+    <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
@@ -29,5 +29,6 @@
   <ItemGroup>
     <PackageReference Include="SSH.NET" Version="2020.0.1" />
   </ItemGroup>
+
 
 </Project>
